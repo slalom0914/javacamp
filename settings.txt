@@ -1,0 +1,15 @@
+npm install -g yarn 엔터 
+버전 확인 yarn -v
+
+yarn add @fortawesome/fontawesome-free
+
+yarn add bootstrap
+
+yarn add react-bootstrap
+
+yarn add styled-components
+
+yarn add react-router-dom
+
+yarn start
+
